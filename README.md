@@ -95,7 +95,6 @@ This behavior confirms the **negative differential resistance (NDR)** characteri
 **Graph:**
 ![WhatsApp Image 2025-11-16 at 10 41 53_09f8da00](https://github.com/user-attachments/assets/a7619243-f753-4fb8-b76a-ba1fd6c5936c)
 
-
 **Result:**
 - The I–V characteristics of the Gunn diode were plotted and the negative resistance region was identified.  
 - Peak voltage (Vₚ) = 2.5 V, Valley voltage (Vᵥ) = 5 V.
